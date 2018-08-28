@@ -1,0 +1,9 @@
+Package: mvstats
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2018-08-28
+Author: Binhui WANG
+Maintainer: Feng XU <xufeng34@163.com>
+Description: Packages for the book of Multivariate Statistical Analysis and Modeling for R Language
+License: What license is it under?
